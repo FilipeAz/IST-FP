@@ -8,4 +8,4 @@
 
 [FP](https://fenix.tecnico.ulisboa.pt/disciplinas/FP45/2014-2015/1-semestre)
 
-Projects Grade - 17.05/20
+Projects Grade - 17.05/20 (17 and 17.1 respectively)
