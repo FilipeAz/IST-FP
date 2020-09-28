@@ -1,6 +1,6 @@
 # IST-FP
 
-2014/2015 Foundations of Programming (FP) course from the 1st year of the Computer Science and Engineering (LEIC-A) programme @ Instituto Superior Técnico (IST)
+2014/2015 Foundations of Programming (FP) course from the 1st year of the Computer Science and Engineering (LEIC-A) undergraduate programme @ Instituto Superior Técnico (IST)
 
 [IST](https://tecnico.ulisboa.pt/en/)
 
